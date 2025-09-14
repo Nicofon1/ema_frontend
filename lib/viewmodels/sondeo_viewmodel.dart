@@ -4,7 +4,7 @@ import '../services/sondeo_service.dart';
 
 class SondeoViewModel extends ChangeNotifier {
   
-  final ISondeoService _sondeoService = SondeoService();
+  final SondeoService _sondeoService = SondeoService();
 
   bool _isLoading = false;
   bool get isLoading => _isLoading;
