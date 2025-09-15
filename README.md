@@ -18,7 +18,7 @@ Este proyecto representa la contraparte visual y de cliente del "esqueleto funci
 
 ## UML Implementación Actual
 
-<img width="3840" height="934" alt="Untitled diagram _ Mermaid Chart-2025-09-14-223048" src="https://github.com/user-attachments/assets/139977e1-d63b-472a-8936-675dfbe346b4" />
+<img width="3840" height="898" alt="Untitled diagram _ Mermaid Chart-2025-09-15-012220" src="https://github.com/user-attachments/assets/4ce19984-2299-443d-ae21-d2dfcbe64dd6" />
 
 
 
